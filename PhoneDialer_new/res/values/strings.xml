@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PhoneDialer_new</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="backspace">backspace</string>
+	<string name="call">call</string>
+	<string name="hangup">hangup</string>
+	<string name="B1">1</string>
+	<string name="B2">2</string>
+	<string name="B3">3</string>
+	<string name="B4">4</string>
+	<string name="B5">5</string>
+	<string name="B6">6</string>
+	<string name="B7">7</string>
+	<string name="B8">8</string>
+	<string name="B9">9</string>
+	
+	<string name="B0">0</string>
+	<string name="Bstar">*</string>
+	<string name="Bdiez">#</string>
+	
+	
+</resources>
